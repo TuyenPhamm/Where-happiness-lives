@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'DM Serif Display';
+  src: url('DM_Serif_Display.woff') format('woff'); 
+}
+
+.font-serif-display {
+  font-family: 'DM Serif Display', serif;
+}
